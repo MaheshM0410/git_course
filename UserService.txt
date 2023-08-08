@@ -1,1 +1,3 @@
-Get user Data
+Get user Data............
+
+Create an avtar for user
